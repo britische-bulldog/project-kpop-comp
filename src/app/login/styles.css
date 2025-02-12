@@ -1,0 +1,23 @@
+.ant-layout.login-layout {
+    min-height: 100vh;
+  }
+  
+  .login-page-header {
+    padding: 15px;
+  }
+  
+  .login-form-container {
+    color: rgba(0, 0, 0, 0.85);
+    margin: 0 50px 0 50px;
+    padding: 25px;
+  }
+  
+  .login-form {
+    background-color: white;
+    padding: 15px;
+  }
+  
+  .login-form-header {
+    padding: 0 15px 0 15px;
+    background-color: white;
+  }
